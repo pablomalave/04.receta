@@ -1,0 +1,165 @@
+/* General */
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #fafafa;
+  font-family: "Montserrat", sans-serif;
+  font-size: 8px;
+  margin: 2%;
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 3em; /*24px*/
+  color: #000000;
+}
+
+h2 {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 2.25em; /*18px*/
+  color: #333333;
+  margin: 5% 0;
+}
+
+h3 {
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 2em; /*16px*/
+  font-style: italic;
+  margin: 5% 0;
+}
+
+/* Description */
+
+.description {
+  display: flex;
+  align-items: flex-start;
+  font-style: italic;
+  margin: 5% 0;
+}
+
+.description-dot {
+  padding: 0 5% 0 0;
+}
+
+.description p {
+  font-weight: 500;
+  font-size: 1.5em; /*12px*/
+  color: #4f4f4f;
+  padding: 0;
+  margin: 0;
+}
+
+.main-pic {
+  width: 100%;
+  border-radius: 5%;
+}
+
+/* Info */
+
+.info-section{
+  margin: 5% 0;
+}
+
+.info-content {
+  display: flex;
+  margin: 1% 0;
+  flex-grow: 1;
+}
+
+.info-img{
+  margin-right: 1%;
+}
+
+
+.info-title {
+  font-weight: 700;
+  font-size: 1em; /*8px*/
+  color: #bdbdbd;
+}
+
+.info {
+  font-weight: 500;
+  font-size: 1.25em; /*10px*/
+  color: #333333;
+}
+
+.info-row-2 {
+  display: flex;
+}
+
+.yield {
+  color: #f2994a;
+}
+
+/* Ingredients */
+
+.ingredient{
+  display: flex;
+  align-items: center;
+}
+
+.ingredient label {
+  font-weight: 400;
+  font-size: 1.75em; /*14px*/
+  color: #333333;
+  margin: 2%;
+}
+
+/* Intruction */
+
+.instruction-step {
+  display: flex;
+  align-items: flex-start;
+}
+
+.instruction-number {
+  color: #ffffff;
+  background-color: #f2994a;
+  border-radius: 5px;
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 3em; /*16px*/
+  width: 10%;
+  text-align: center;
+}
+
+.instruction {
+  font-weight: 400;
+  font-size: 2em; /*16px*/
+  color: #000000;
+  width: 80%;
+  margin: 0 0 5% 5%;
+}
+
+/* Source */
+
+.source a{
+  font-weight: 400;
+  font-size: 12px;
+  color: #bdbdbd;
+  font-style: italic;
+  text-decoration: none;
+}
+
+/* Footer */
+
+footer {
+  font-weight: 500;
+  font-size: 14px;
+  color: #828282;
+  text-align: center;
+  margin-top: 5%;
+}
+
+footer a {
+  font-weight: 700;
+  text-decoration: none;
+  color: #828282;
+}
