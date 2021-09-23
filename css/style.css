@@ -169,5 +169,24 @@ footer a {
   body{
     background-color:   olive;
   }
+
+  main{
+    max-width: 720px;
+    margin: 0 auto;
+  }
+
+  .recipe{
+    display: flex;
+    flex-direction: row-reverse;
+  }
+
+  .info-section{
+    flex-basis: 20%;
+  }
+
+  .info-row-2{
+    flex-direction: column;
+    flex-grow: 1;
+  }
   
 }
