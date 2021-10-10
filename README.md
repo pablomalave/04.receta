@@ -12,11 +12,11 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/pablomalave/03.interior-consultant-master.git">
       Solution
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-challenge}">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
   </h3>
@@ -37,14 +37,17 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](img/captureDesktop.jpeg)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+Esta página web muestra una receta de Quesillo Venezolano, un rico postre de mi pais. 
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+En este proyecto se hace uso de Flexbox para la distribución de los elementos en pantalla tanto para Escritorio como para Móviles.
+
+El reto propone el uso de Checbox para llevar un seguimiento de los ingedientes. Se destaca la personalizacion de los CheckBox personalizados para obtener uniformidad en todos los navegadores.
+
+![screenshot](img/captureMobile.jpeg)
+
+
 
 ### Built With
 
@@ -64,34 +67,17 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [x] User story: I can see the number of servings, baking times
 
 
-
-
-
-## How To Use
-
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
-
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- Chris Coyer. [A Complete Guide to Flexbox. ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 2013 - 2021.
+- Thu Nghiem[Steps to replicate a design with only HTML and CSS.](https://devchallenges-blogs.web.app/how-to-replicate-design/) 2020.
+- W3 Schools. [Responsive Web Design - Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+- Anto Fernandez. [Personalizar un checkbox con CSS](http://www.antofernandez.com/pesonalizar-checkbox-con-css/)
+
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [Pablo Malave - GithubPages](https://pablomalave.github.io/CV/)
+- GitHub [@pablomalave](https://github.com/pablomalave)
