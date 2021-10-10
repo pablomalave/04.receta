@@ -105,7 +105,7 @@ h3 {
   align-items: center;
 }
 
-.ingredient label {
+.ingredient p {
   font-weight: 400;
   font-size: 1.75em; /*14px*/
   color: #333333;
@@ -166,13 +166,26 @@ footer a {
 
 /* MEDIA QUERIES */
 @media (min-width: 720px){
-  body{
-    background-color:   olive;
+
+  h1{
+    font-size: 6em;/*48px*/
+  }
+
+  h2{
+    font-size: 3em;/*24px*/
+  }
+
+  h3{
+    font-size: 2.25em;/*18px*/
   }
 
   main{
     max-width: 720px;
     margin: 0 auto;
+  }
+
+  .description p{
+    font-size: 1.75em;/*14px*/
   }
 
   .recipe{
@@ -181,12 +194,36 @@ footer a {
   }
 
   .info-section{
-    flex-basis: 20%;
+    flex-basis: 100%;
+    height: 100%;
+    box-shadow: 0 0 10px 5px #bdbdbd;
+    border-radius: 5px;
+    padding: 2%;
+  }
+  
+  .info-content{
+    margin: 5%;
+  }
+
+  .info-title{
+    font-size: 1.25em;/*10px*/
+  }
+
+  .info{
+    font-size: 1.75em;/*14px*/
   }
 
   .info-row-2{
     flex-direction: column;
     flex-grow: 1;
+  }
+  
+  .ingredient p{
+    font-size: 2em;/*16em*/
+  }
+
+  .source{
+    font-size: 2em;/*16px*/
   }
   
 }
