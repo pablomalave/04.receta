@@ -38,11 +38,11 @@
 
 ![screenshot](img/captureDesktop.jpeg)
 
-Esta página web muestra una receta de Quesillo Venezolano, un rico postre de mi pais. 
+This website shows a recipe for Quesillo Venezolano, a delicious dessert from my country. 
 
-En este proyecto se hace uso de Flexbox para la distribución de los elementos en pantalla tanto para Escritorio como para Móviles.
+In this project, Flexbox is used for the distribution of the elements on the screen for both Desktop and Mobile.
 
-El reto propone el uso de Checbox para llevar un seguimiento de los ingedientes. Se destaca la personalizacion de los CheckBox personalizados para obtener uniformidad en todos los navegadores.
+The challenge proposes the use of Checbox to keep track of the ingredients. The customization of custom CheckBoxes is highlighted to obtain uniformity in all browsers.
 
 ![screenshot](img/captureMobile.jpeg)
 
